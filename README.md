@@ -8,3 +8,33 @@
 ```
 
 
+### <ol>Problem 2: <a href="Day1/Factorial_Of_Number.py">**Program to find Factorial of number.**</a></ol>
+```python
+    Input: Enter a Number: 5
+    Output: 5! = 120
+```
+
+
+### <ol>Problem 3: <a href="Day1/HCF_Of_Number.py">**Program to find HCF of numbers.**</a></ol>
+```python
+    Input: Enter 1st Number: 5
+            Enter 2nd Number: 12
+    Output: HCF: 1
+```
+
+
+### <ol>Problem 4: <a href="Day1/LCM_Of_Number.py">**Program to find LCM of numbers.**</a></ol>
+```python
+    Input: Enter 1st Number: 5
+            Enter 2nd Number: 12
+    Output: LCM: 1
+```
+
+### <ol>Problem 5: <a href="Day1/Number_is_Fibonacci_or_not.py">**Program to check whether given number is Fibonacci or not.**</a></ol>
+```python
+    Input: Enter a Number: 78
+    Output: It's not an Fibonacci Number
+    
+    Input: Enter a Number: 55
+    Output: Yup! It's a Fibinacci Number
+```
